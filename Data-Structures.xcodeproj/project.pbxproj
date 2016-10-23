@@ -26,6 +26,8 @@
 		DECA60881DBB66FB008D043A /* Data-Structures */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Data-Structures"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DECA608B1DBB66FB008D043A /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		DECA60921DBB6726008D043A /* BinarySearch.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BinarySearch.h; sourceTree = "<group>"; };
+		DECA60931DBB6A8A008D043A /* Pow.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Pow.h; sourceTree = "<group>"; };
+		DECA60941DBB8933008D043A /* List.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = List.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,8 @@
 			children = (
 				DECA608B1DBB66FB008D043A /* main.c */,
 				DECA60921DBB6726008D043A /* BinarySearch.h */,
+				DECA60931DBB6A8A008D043A /* Pow.h */,
+				DECA60941DBB8933008D043A /* List.h */,
 			);
 			path = "Data-Structures";
 			sourceTree = "<group>";
